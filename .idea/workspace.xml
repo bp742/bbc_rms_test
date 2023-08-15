@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97c81f35-a23a-4e80-b97d-c91532594aef" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TtCzI765mpzUMo9Bncw03Qu6z0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bhavi/IdeaProjects/bbc_rms_test/src/test/java/uk/co/bbc/bbcrmsinfo/steps",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhavi\IdeaProjects\bbc_rms_test\src\test\java\uk\co\bbc\bbcrmsinfo\steps" />
+      <recent name="C:\Users\bhavi\IdeaProjects\bbc_rms_test\src\test\java\uk\co\bbc\bbcrmsinfo" />
+      <recent name="C:\Users\bhavi\IdeaProjects\bbc_rms_test\src\test\java" />
+      <recent name="C:\Users\bhavi\IdeaProjects\bbc_rms_test\src\main\java\uk\co\bbc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.co.bbc.testbase" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CucumberRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bbc_rms_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.bbc.bbcrmsinfo.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.bbc.bbcrmsinfo.steps" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.bbc.bbcrmsinfo.steps.CucumberRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97c81f35-a23a-4e80-b97d-c91532594aef" name="Changes" comment="" />
+      <created>1691853254335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691853254335</updated>
+    </task>
+    <servers />
+  </component>
+</project>
